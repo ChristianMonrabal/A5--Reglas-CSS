@@ -1,8 +1,4 @@
 # A5-Reglas-CSS
-<<<<<<< HEAD
-# A5-Reglas-CSS
-=======
->>>>>>> d88dbcc8347918d6753d8d49d6c89f27bf072208
 ## Mediante una hoja de estilos externa hay que aplicar las siguientes reglas:
 ### Encabezado:
 Regla 1: Mediante un selector universal, hacer que el color de fondo sea "purple" y el color de texto "black".
@@ -35,8 +31,5 @@ Regla 13: El selector de nombre "main" tendra un padding a la izquierda y derech
 #
 Regla 14: Las etiquetas p hijos del selector "main" tendran una fuente de 16px.
 #
-<<<<<<< HEAD
 Regla 15: Las etiquetas h2 hijos del selector "main" tendran una fuente de 200px.
-=======
-Regla 15: Las etiquetas h2 hijos del selector "main" tendran una fuente de 200px.
->>>>>>> d88dbcc8347918d6753d8d49d6c89f27bf072208
+
