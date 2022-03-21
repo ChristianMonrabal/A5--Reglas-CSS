@@ -6,7 +6,7 @@ Mediante un selector universal, hacer que el color de fondo sea "purple" y el co
 # Regla 2:
 El elemento body tendra un margen del 0%.
 # Regla 3:
-Mediante un selector id con el nombre "header" tiene una altura de 100vh, fondo de imagen en la ruta (../img/ehader.jpg), su posición de fondo es centrado y un tamaño de fondo "cover".
+Mediante un selector id con el nombre "header" tendra una altura de 100vh, fondo de imagen en la ruta (../img/ehader.jpg), su posición de fondo es centrado y un tamaño de fondo "cover".
 # Regla 4:
 Los h1 que esten dentro de "header", tendran un color blanco, una fuente de 50px y el texto centrado.
 ### TEXTO:
