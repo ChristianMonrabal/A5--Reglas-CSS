@@ -1,7 +1,7 @@
 # A5-Reglas-CSS
 ## Mediante una hoja de estilos externa hay que aplicar las siguientes reglas:
 ### Encabezado:
-Regla 1: Mediante un selector universal, hacer que el color de fondo sea "purple" y el color de texto "black".
+# Regla 1: Mediante un selector universal, hacer que el color de fondo sea "purple" y el color de texto "black".
 #
 Regla 2: El elemento body tendra un margen del 0%.
 #
