@@ -27,10 +27,10 @@ Todos los enlaces no tendran ninguna decoración y el color de fuente sera rojo.
 El selector con la etiqueta "footer" tendra el texto centrado y sin decoración, el fondo de color "black", el color "white", y un padding de 12px.
 ### DISEÑO RESPONSIVE:
 # Regla 12:
-Las etiquetas h2 hijos del selector "header" tendran un padding 0 1% y una fuente de 16px.
+Las etiquetas h2 combinados con el selector "header" tendran un padding 0 1% y una fuente de 16px.
 # Regla 13:
 Mediante un selector id con nombre "main" tendra un padding a la izquierda y derecha del 1%.
 # Regla 14: 
-Las etiquetas p hijos del selector "main" tendran una fuente de 16px.
+Las etiquetas p combinados con el selector "main" tendran una fuente de 16px.
 # Regla 15: 
-Las etiquetas h2 hijos del selector "main" tendran una fuente de 200px.
+Las etiquetas h2 combinados con el selector "main" tendran una fuente de 200px.
