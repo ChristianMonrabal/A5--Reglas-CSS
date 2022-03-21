@@ -33,5 +33,3 @@ Regla 14: Las etiquetas p hijos del selector "main" tendran una fuente de 16px.
 #
 Regla 15: Las etiquetas h2 hijos del selector "main" tendran una fuente de 200px.
 #
-#RESULTADO:
-https://github.com/ChristianMonrabal/A5--Reglas-CSS/blob/main/LewisHamilton.png
