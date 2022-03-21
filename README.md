@@ -2,7 +2,7 @@
 ## Mediante una hoja de estilos externa hay que aplicar las siguientes reglas:
 ### ENCABEZADO:
 # Regla 1:
-Mediante un selector universal, hacer que el color de fondo sea "purple" y el color de texto "black".
+Mediante un selector universal, hacer que  el color de texto "white".
 # Regla 2:
 El elemento body tendra un margen del 0%.
 # Regla 3:
@@ -11,7 +11,7 @@ Mediante un selector id con el nombre "header" tendra una altura de 100vh, fondo
 Los h1 que esten dentro de "header", tendran un color blanco, una fuente de 50px y el texto centrado.
 ### TEXTO:
 # Regla 5:
-Mediante un selector id con el nombre "main" tendra un padding de izquierda y derecha del 20%.
+Mediante un selector id con el nombre "main" tendra un padding de izquierda y derecha del 20% y el color de fondo sera "purple"
 # Regla 6: 
 Todas las etiquetas (p) dentro de "main" tendra una fuente de 20px.
 # Regla 7: 
